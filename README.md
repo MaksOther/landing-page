@@ -4,7 +4,7 @@ A responsive landing page for **Bose** — built with pure HTML and SCSS, bundle
 
 ## 🔗 Demo
 
-> [Live Demo](#)
+> [Live Demo](https://maksother.github.io/landing-page/)
 
 ## 🛠 Tech Stack
 
